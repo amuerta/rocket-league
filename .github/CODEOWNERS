@@ -1,0 +1,9 @@
+# CODEOWNERS
+
+# core
+* @amuerta
+
+# m8
+
+./docs/     @Axis9876
+./github/   @Axis9876
